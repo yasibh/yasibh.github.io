@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yasibh.csgad.com/tGW/sitemap.xml.gz
